@@ -3,6 +3,7 @@
     "name": "MobileUI",
     "slug": "MobileUI",
     "version": "1.0.0",
+    "scheme": "mobileui",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -28,7 +29,7 @@
       [
         "expo-font",
         {
-          "fonts": ["./assets/fonts/acre-medium.ttf"]
+          "fonts": ["./assets/fonts/acre-medium.otf"]
         }
       ]
     ]
